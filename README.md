@@ -1,6 +1,6 @@
 ZenTS CLI is part of the ZenTS framework.
 
-[ZenTS repo](https://github.com/sahachide/ZenTS) | [Website](http://zents.dev) | [Documentation](http://zents.dev/guide/)
+[ZenTS repo](https://github.com/sahachide/ZenTS) | [Website](https://zents.dev) | [Documentation](https://zents.dev/guide/) | [npm](https://www.npmjs.com/package/zents-cli)
 
 ## License
 

@@ -21,10 +21,10 @@
   "homepage": "http://zents.dev",
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "https://github.com/sahachide/ZenTS-CLI"
   },
   "bugs": {
-    "url": "http://"
+    "url": "https://github.com/sahachide/ZenTS-CLI/issues"
   },
   "bin": {
     "zen": "./bin/run"
@@ -118,8 +118,6 @@
     }
   },
   "scripts": {
-    "postpack": "rm -f oclif.manifest.json",
-    "prepack": "rm -rf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
     "build": "tsc",
     "watch": "tsc --watch",
     "lint": "eslint . -f codeframe"

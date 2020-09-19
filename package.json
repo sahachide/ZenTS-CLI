@@ -78,7 +78,7 @@
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-prettier": "^3.1.4",
     "globby": "^10.0.2",
-    "prettier": "^2.1.1",
+    "prettier": "^2.1.2",
     "ts-node": "^9.0.0",
     "type-fest": "^0.16.0",
     "typescript": "^3.9.7"

@@ -1,0 +1,11 @@
+*-debug.log
+*-error.log
+.DS_Store
+.vscode/
+/.nyc_output
+/dist
+/lib
+/tmp
+/yarn.lock
+node_modules
+.env

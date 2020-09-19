@@ -1,0 +1,7 @@
+export { run } from '@oclif/command'
+export * as Build from './commands/build'
+export * as Create from './commands/create'
+export * as Dev from './commands/dev'
+export * as AddController from './commands/add/controller'
+export * as AddService from './commands/add/service'
+export * as AddEntity from './commands/add/entity'

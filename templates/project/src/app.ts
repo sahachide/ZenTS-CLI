@@ -1,5 +1,4 @@
 import { zen } from 'zents'
-;
-(async () => {
+;(async () => {
   await zen()
 })()

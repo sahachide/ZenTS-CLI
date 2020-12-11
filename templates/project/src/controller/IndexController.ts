@@ -13,7 +13,7 @@ export default class extends Controller {
     })
   }
 
-  @get('hello/:name')
+  @get('/hello/:name')
   public async helloWorld(@params params: { name: string }) {
     const greetings = `Hello ${params.name}`
 
